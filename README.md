@@ -10,4 +10,7 @@ Pytorch implementation of GraphSAGE based on https://github.com/bkj/pytorch-grap
 https://github.com/williamleif/GraphSAGE
 
 
+https://github.com/williamleif/graphsage-simple
+
+
 https://cs.stanford.edu/people/jure/pubs/graphsage-nips17.pdf
